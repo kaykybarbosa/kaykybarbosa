@@ -1,4 +1,4 @@
-Olá! Eu sou Kayky Barbosa
+Olá! Eu sou Kayky Bruno
 
 - 🎓 ADS 2/5
 - 🌱 Estudando Java
