@@ -7,14 +7,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykybarbosa&layout=compact&hide_border=true&title_color=D4CDCC&text_color=D4CDCC&bg_color=0D1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaykybarbosa&bg_color=0d1117&color=ffffff&line=d4cdcc&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main Skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FD0202)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=75FA4A)&nbsp;
 ![CSharp](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120)&nbsp;
-![Dotnet](	https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
+![Dotnet](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
 
 ##
+
+
 
 <div align="center">
  <a href = "mailto:contatokaykybarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
