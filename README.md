@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D4CDCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Kayky+Barbosa;Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaykybarbosa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=D4CDCC&icon_color=D4CDCC&text_color=D4CDCC&bg_color=0D1117" alt="Kayky Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykybarbosa&layout=compact&hide_border=true&title_color=D4CDCC&text_color=D4CDCC&bg_color=0D1117" />
-</div>
+</div> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaykybarbosa&bg_color=0d1117&color=ffffff&line=d4cdcc&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
