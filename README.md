@@ -16,6 +16,7 @@
 ![Dotnet](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=ffc400)&nbsp;
 
 ##
 
